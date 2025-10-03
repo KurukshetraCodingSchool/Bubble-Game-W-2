@@ -95,3 +95,9 @@ main{
     color: white;
     box-shadow: 0 0 12px #ef4444;
 }
+
+
+.panel-bottom h1{
+    color:  red;
+    font-size: 100px;
+}
