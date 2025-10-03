@@ -57,7 +57,7 @@ panelbottom.addEventListener('click', (e) => {
     }
 })
 
-// game start
+
 randomhit()
 timer()
 makebubble()
